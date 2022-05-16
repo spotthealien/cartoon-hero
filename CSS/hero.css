@@ -9,6 +9,7 @@ body{
 h1, h2 {font-family: 'Alfa Slab One', cursive;
 }
 
+/*header styles*/
 header{
 	background-color: #dd4242;
 	text-align: center;
