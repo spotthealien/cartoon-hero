@@ -64,7 +64,9 @@ p{
 p.caption{
 	color: #999999;
 	font-style: italic;
+	font-size: 16px;
 	margin-top: 0;
+	text-align: center;
 }
 
 footer {
